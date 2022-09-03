@@ -1,4 +1,4 @@
-# markOne-Neogcamp - Do you Know me ?
+# MarkOne-Neogcamp - Do you Know me ?
 A fun CLI App made using Javascript, chalk to add colors.
 
 ## Deployed Link 
