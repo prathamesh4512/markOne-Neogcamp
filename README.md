@@ -1,5 +1,5 @@
 # markOne-Neogcamp - Do you Know me ?
-A fun CLI App made using Javascript.
+A fun CLI App made using Javascript, chalk to add colors.
 
 ## Deployed Link 
 https://replit.com/@prathameshId/MarkOne?embed=1&output=1?index.js 
